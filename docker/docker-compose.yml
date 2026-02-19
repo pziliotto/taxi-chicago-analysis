@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgis/postgis:15-3.3
+    container_name: chicago-taxi-db
+    environment:
+      POSTGRES_USER: chicago_user
+      POSTGRES_PASSWORD: chicago_pass
+      POSTGRES_DB: chicago_taxi
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - chicago-network
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+
+networks:
+  chicago-network:
+    driver: bridge
