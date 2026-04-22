@@ -20,10 +20,10 @@ ENV/
 *.swo
 
 # Data files (não commitar dados grandes)
-data/raw/*.csv
-data/raw/*.parquet
-data/processed/*.csv
-data/processed/*.parquet
+data/raw/
+data/processed/
+data/features/
+outputs/quality_reports/
 *.h5
 *.hdf5
 
