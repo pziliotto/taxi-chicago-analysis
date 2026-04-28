@@ -1,0 +1,160 @@
+{
+  "hourly_flow": [
+    {
+      "hour": 0,
+      "trips": 235617
+    },
+    {
+      "hour": 1,
+      "trips": 156326
+    },
+    {
+      "hour": 2,
+      "trips": 107867
+    },
+    {
+      "hour": 3,
+      "trips": 81253
+    },
+    {
+      "hour": 4,
+      "trips": 82451
+    },
+    {
+      "hour": 5,
+      "trips": 124315
+    },
+    {
+      "hour": 6,
+      "trips": 295483
+    },
+    {
+      "hour": 7,
+      "trips": 658926
+    },
+    {
+      "hour": 8,
+      "trips": 1011597
+    },
+    {
+      "hour": 9,
+      "trips": 1077418
+    },
+    {
+      "hour": 10,
+      "trips": 1046528
+    },
+    {
+      "hour": 11,
+      "trips": 1115228
+    },
+    {
+      "hour": 12,
+      "trips": 1170082
+    },
+    {
+      "hour": 13,
+      "trips": 1157869
+    },
+    {
+      "hour": 14,
+      "trips": 1173159
+    },
+    {
+      "hour": 15,
+      "trips": 1214725
+    },
+    {
+      "hour": 16,
+      "trips": 1296144
+    },
+    {
+      "hour": 17,
+      "trips": 1332089
+    },
+    {
+      "hour": 18,
+      "trips": 1233844
+    },
+    {
+      "hour": 19,
+      "trips": 960891
+    },
+    {
+      "hour": 20,
+      "trips": 703807
+    },
+    {
+      "hour": 21,
+      "trips": 599196
+    },
+    {
+      "hour": 22,
+      "trips": 508297
+    },
+    {
+      "hour": 23,
+      "trips": 364681
+    }
+  ],
+  "weekend_flow": [
+    {
+      "is_weekend": 0,
+      "trips": 13792287
+    },
+    {
+      "is_weekend": 1,
+      "trips": 3915506
+    }
+  ],
+  "rush_flow": [
+    {
+      "is_rush_hour": 0,
+      "trips": 11433028
+    },
+    {
+      "is_rush_hour": 1,
+      "trips": 6274765
+    }
+  ],
+  "seasonal_flow": [
+    {
+      "season": "Fall",
+      "trips": 4497303
+    },
+    {
+      "season": "Spring",
+      "trips": 4526707
+    },
+    {
+      "season": "Summer",
+      "trips": 4657745
+    },
+    {
+      "season": "Winter",
+      "trips": 4026038
+    }
+  ],
+  "top_h3_cells": [
+    "892664c1ecfffff",
+    "892664c1a87ffff",
+    "892664c1a8bffff",
+    "892664c1e2fffff",
+    "892664ca913ffff",
+    "892664c1acfffff",
+    "892664c1607ffff",
+    "892664c1e0fffff",
+    "892664c13d3ffff",
+    "892664c1eabffff",
+    "892664c1b0bffff",
+    "892664d8973ffff",
+    "892664c1e33ffff",
+    "892664520afffff",
+    "89266452183ffff",
+    "892664c1adbffff",
+    "892664c1b47ffff",
+    "892664c1e13ffff",
+    "892664c1e8fffff",
+    "892664d88bbffff"
+  ]
+}

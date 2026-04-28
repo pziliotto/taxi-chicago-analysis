@@ -1,0 +1,60 @@
+{
+  "generated_at": "20260428_094321",
+  "nodes": 414,
+  "edges": 12058,
+  "min_edge_weight": 5,
+  "is_directed": true,
+  "density": 0.07052204325601524,
+  "top_10_by_flow": [
+    {
+      "h3_cell": "892664c1ecfffff",
+      "total_flow": 3024450.0,
+      "pagerank": 0.03641678391318157
+    },
+    {
+      "h3_cell": "892664c1a8bffff",
+      "total_flow": 1968733.0,
+      "pagerank": 0.08101066779270757
+    },
+    {
+      "h3_cell": "892664c1a87ffff",
+      "total_flow": 1828041.0,
+      "pagerank": 0.019657400602694476
+    },
+    {
+      "h3_cell": "892664c1e2fffff",
+      "total_flow": 1761630.0,
+      "pagerank": 0.06215498831349163
+    },
+    {
+      "h3_cell": "892664ca913ffff",
+      "total_flow": 1522576.0,
+      "pagerank": 0.01965524710675445
+    },
+    {
+      "h3_cell": "892664c1acfffff",
+      "total_flow": 1328558.0,
+      "pagerank": 0.038545342934141
+    },
+    {
+      "h3_cell": "892664c1607ffff",
+      "total_flow": 1257619.0,
+      "pagerank": 0.014996205871395177
+    },
+    {
+      "h3_cell": "892664c1e0fffff",
+      "total_flow": 1168457.0,
+      "pagerank": 0.04171597872471062
+    },
+    {
+      "h3_cell": "892664c13d3ffff",
+      "total_flow": 986182.0,
+      "pagerank": 0.012392219899329773
+    },
+    {
+      "h3_cell": "892664c1eabffff",
+      "total_flow": 778673.0,
+      "pagerank": 0.03328114787951187
+    }
+  ]
+}
